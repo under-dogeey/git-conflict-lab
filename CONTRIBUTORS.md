@@ -1,2 +1,2 @@
 # Contributors for the project:
-* Robert Trinh
+* Robert Trin
